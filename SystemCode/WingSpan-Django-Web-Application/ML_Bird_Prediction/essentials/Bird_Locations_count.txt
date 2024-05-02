@@ -1,0 +1,293 @@
+Total number of locations: 289
+
+Location counts:
+Location
+Pulau Ubin                                                     1629
+Lorong Halus Wetland                                            985
+Sungei Buloh Wetland Reserve                                    753
+Hindhede Quarry                                                 682
+Kranji Marsh                                                    569
+Marina East Drive                                               545
+Neo Tiew Harvest Lane                                           538
+Jalan Asas                                                      529
+Dairy Farm Nature Park                                          521
+Singapore                                                       469
+Lim Chu Kang Lane 3                                             448
+Singapore Botanic Gardens                                       413
+Marina Bay                                                      318
+Bukit Timah Nature Reserve                                      306
+Singapore Quarry                                                233
+Chek Jawa                                                       228
+Pulau Tekong                                                    225
+Tuas South                                                      225
+Central Catchment Nature Reserve                                191
+Sungei Buloh wetland reserve                                    189
+Changi Business Park                                            170
+NTU                                                             169
+Jurong Lake Garden                                              162
+Berlayar Creek Boardwalk                                        155
+Marina East Breakwaters                                         151
+Chek Jawa Boardwalk                                             139
+Dover Road                                                      137
+Pasir Ris Farmway 1                                             123
+Changi Bay Point                                                106
+Botanic Gardens                                                 106
+Macritchie Reservoir                                             94
+Pulau Ubin Chek Jawa                                             93
+Pinnacle at Duxton                                               92
+Bishan-Ang Mo Kio Park                                           89
+Pasir Panjang                                                    87
+Jurong Lake Gardens                                              76
+MacRitchie Reservoir Park                                        76
+MED                                                              70
+Admiralty Park                                                   69
+Pinnacle@Duxton                                                  67
+MacRitchie Reservoir                                             66
+Hindhede Park                                                    63
+CCNR                                                             62
+Jln Ulu Sembawang                                                62
+Neo Tiew Road                                                    61
+Dairy Farm                                                       59
+Turut Track                                                      58
+Marina East (Gardens by the Bay: Bay East / Marina Barrage)      50
+CCNR, Petai Trail area                                           50
+Haig Court                                                       46
+Pasir Ris Farmway 3                                              41
+Henderson Waves                                                  37
+Pasir Ris Park                                                   37
+Jurong lake garden                                               36
+Lorong Halus                                                     32
+West Coast Park                                                  31
+Yishun Dam                                                       28
+Marina Barrage                                                   28
+National University of Singapore                                 27
+Lower Peirce Reservoir                                           27
+Thomson Nature Park                                              26
+Labrador Nature Reserve                                          23
+Berlayer Creek                                                   22
+Bishan Ang Mo Kio Park                                           22
+Chek Jawa, Pulau Ubin                                            20
+Ulu Pandan Park Connector                                        20
+Lorong Halus Wetlands                                            20
+Sembawang Road: turf field                                       18
+Kent Ridge Park                                                  18
+Pandan Reservoir                                                 17
+Bedok Canal                                                      16
+Mount Faber                                                      16
+Singapore Straits                                                16
+Seletar Dam (Yishun Dam)                                         15
+Punggol                                                          15
+Chinese Garden                                                   14
+Sungei Tengah Road                                               13
+Ghim Moh Road 14                                                 13
+Ulu Pandan Park Connector, opposite Pinegrove condo              13
+Changi Business Park canal                                       13
+Monsoon Drain at Lim Chu Kang Lane 3                             12
+Dempsey Hill                                                     12
+Seletar Aerospace Drive                                          11
+Nanyang Technological University                                 11
+Bukit Timah Hill                                                 11
+Tanjong Rhu                                                      10
+Jurong Eco Garden                                                 9
+Bidadari                                                          9
+Hindhede Nature Park                                              9
+Sembawang Road                                                    9
+Ubin Living Lab                                                   7
+Berlayer Creek Boardwalk                                          7
+Sungei Buloh Wetlands Reserve                                     7
+Jelutong Tower                                                    7
+Dover Rd                                                          7
+Tampines Eco Green                                                6
+Marina East                                                       6
+Dover Area                                                        6
+Bukit Timah Summit                                                6
+Telok Blangah Hill Park                                           5
+NSRCC Kranji                                                      5
+SkyParc@Dawson                                                    5
+Mount Faber Park                                                  4
+Rower's Bay Park                                                  4
+Kusu Island                                                       4
+Mt Faber                                                          4
+Yishun Pond                                                       4
+CCNR--Jelutong Tower                                              4
+Sungei Buloh                                                      4
+Sungei Bedok                                                      4
+Pulau Tekong (restricted access)                                  4
+Neo Tiew                                                          3
+Jalan Mashhor                                                     3
+Holland Plains                                                    3
+Telok Blangah                                                     3
+Singapore Straits (including SG/Indo/M'sian waters)               3
+Mount Faber Carpark B                                             3
+open grass area of Marina East Drive                              3
+East Coast Park                                                   3
+Chek Jawa Wetlands                                                3
+Rifle Range Link                                                  3
+Yishun Wagtail Roost                                              2
+Kranji Marshes                                                    2
+Singapore Botanical Gardens                                       2
+Singapore Botanic Garden                                          2
+Jurong lake gardens                                               2
+Marina Grove                                                      2
+Windsor Nature Park                                               2
+Seletar Dam                                                       2
+Tuas                                                              2
+Pulau Semakau                                                     2
+Sungei Tengah                                                     2
+Pang Sua Park Connector                                           2
+Central Boulevard                                                 2
+Springleaf Nature Park                                            2
+Over Tan Tock Seng/Novena Area                                    2
+Tampines Ecogreen                                                 2
+Singapore Strait                                                  2
+Straits of Johor                                                  2
+CBD                                                               2
+Tanah Merah Coast Road                                            2
+Satay By The Bay                                                  2
+Bishan-AMK Park                                                   2
+Sentosa                                                           2
+Lower Seletar Reservoir Park                                      2
+Seletar Aerospace Crescent                                        2
+The Grandstand                                                    2
+Goldhill                                                          2
+Pulau Ubin: Chek Jawa                                             2
+Kranji Dam                                                        2
+Rochor River                                                      1
+Simpang Kiri Park Connector                                       1
+Pasir Ris Grove                                                   1
+Woodlands                                                         1
+Bukit Brown                                                       1
+Woodlands Street 81                                               1
+St. John's Island                                                 1
+Peninsula Plaza                                                   1
+Tanjong Pagar                                                     1
+Seletar Expressway                                                1
+CapitaGreen                                                       1
+Gam Eng Seng Primary School                                       1
+Strathmore Avenue                                                 1
+Clementi Woods Park                                               1
+Tampines Street 91                                                1
+Portchester Ave                                                   1
+P. Tekong                                                         1
+Bukit Brown Cemetery                                              1
+Bukit Timah                                                       1
+Temasek Polytechnic                                               1
+Sims Avenue                                                       1
+Jurong West St 52                                                 1
+Central Catchment Area                                            1
+Lazarus Island                                                    1
+Airport Blvd                                                      1
+Sungei Buloh Wetland                                              1
+108 Sungei Tengah Road                                            1
+Gardens by the Bay                                                1
+Punggol Way                                                       1
+Penjuru Place                                                     1
+NTU, fringe of western catchment                                  1
+Berlayer Creek boardwalk                                          1
+Lorong Halus Turf fields                                          1
+Mount Faber Car park B                                            1
+Kranji Marshes Tower                                              1
+New reclamation land at P. Tekong                                 1
+Changi Bay Park Connector                                         1
+Dempsey Road                                                      1
+SBWR                                                              1
+Tuas South Way                                                    1
+Hamstead Wetlands Singapore                                       1
+pulau tekong                                                      1
+Southern Ridges                                                   1
+Unknown condominium                                               1
+SG - Batam Ferry                                                  1
+Canal near Bishan Stadium                                         1
+Pelagic - Straits of Singapore                                    1
+Punggol Seventeenth Avenue                                        1
+Pinnacle@Duxton towards Mt Faber                                  1
+Windsor Nature Park including Venus Drive and Venus Loop          1
+Ubin, West                                                        1
+Lim Chu Kang Ln3                                                  1
+Pasir Panjang Canal                                               1
+Holland Plain                                                     1
+Sungei buloh wetland                                              1
+NUS campus                                                        1
+Mt. Faber                                                         1
+Republic Polytechnic                                              1
+Central Business District                                         1
+Sungei Ulu Pandan Park Connector                                  1
+Airline Road                                                      1
+Bukit Batok Nature Park                                           1
+Marina East Park                                                  1
+Jurong East                                                       1
+Sungai Buloh Wetland Reserve                                      1
+Pasir Ris Park PCN                                                1
+Mapletree Business Park                                           1
+Lorong Halus Entrance                                             1
+Marina South Area                                                 1
+Montreal Dr                                                       1
+SkyVille @ Dawson                                                 1
+Jurong West                                                       1
+Marina east drive                                                 1
+Green Corridor                                                    1
+Chestnut Nature Park                                              1
+Labrador Villa Road                                               1
+Yishun Street 21                                                  1
+Western Catchment                                                 1
+Jurong Island (restricted access)                                 1
+Sembawang                                                         1
+Neo Tiew Lane 3                                                   1
+Coney Island                                                      1
+Straits of Singapore                                              1
+Tree Top Walk                                                     1
+Hampstead Wetlands Park (formerly Baker St. pond)                 1
+Bef Tuas Ter                                                      1
+Choa Chu Kang Christian Cemetery                                  1
+Telok Blangah Hill                                                1
+Hampstead Park                                                    1
+Singapore Waters Pelagic: third hour                              1
+Oriole Crescent                                                   1
+Singapore Waters Pelagic: second hour                             1
+The Raintree                                                      1
+Dairy Farm Carpark B                                              1
+Bukit Timah hill summit                                           1
+New Tech Park, Serangoon                                          1
+Blk 23 Ghim Moh                                                   1
+Central Catchment Nature Reserve: Mandai Track 15                 1
+Pulau Punggol                                                     1
+Marsiling Park                                                    1
+Kang Ching Road                                                   1
+Mandai Mudflats                                                   1
+Harvest Link                                                      1
+Tanglin Trust School                                              1
+Lower Pierce Reservoir                                            1
+Singapore Botanic Gardens, Learning Forest                        1
+Mandai Track 15                                                   1
+Mt faber                                                          1
+Laguna National Golf and Country Club                             1
+Sg Buloh Wetlands Reserve                                         1
+Tampines St 45                                                    1
+Marina Bay East                                                   1
+Henderson waves                                                   1
+Peng Siang river                                                  1
+Sea between Changi and Ubin                                       1
+Sime Track                                                        1
+People's Park Centre                                              1
+Coney Island (Serangoon Island)                                   1
+Singapore Polo Club                                               1
+Kallang                                                           1
+Singapore Straits: Fourth hour of four in Port Limits             1
+NUS                                                               1
+Labrador Park                                                     1
+Dairy farm Nature Park                                            1
+Skyparc @ Dawson                                                  1
+Pinnacles@Duxton                                                  1
+Sungei Buloh Visitor Centre                                       1
+Marina South Drive                                                1
+Lim Chu Kang Road                                                 1
+Marina South Pier                                                 1
+Toa Payoh                                                         1
+Neo Tiew Rd                                                       1
+Tuas South (Tuas South Avenue 16 and surrounds)                   1
+Rifle Range link                                                  1
+Admiralty road west                                               1
+Marina Bay Floating Stage                                         1
+Changi Bay                                                        1
+Tanjong Katong                                                    1
+Jalan Besar Road                                                  1

@@ -1,0 +1,150 @@
+Common Moorhen: 1453
+Oriental Darter: 1062
+Little Grebe: 1050
+Barred Eagle-Owl: 873
+Asian Openbill: 733
+Black Hornbill : 699
+White-faced Plover: 650
+Black-and-red Broadbill: 394
+Chinese Egret : 364
+Sakhalin Leaf Warbler: 310
+Mangrove Whistler: 302
+Ashy Drongo: 300
+Javan Pond Heron: 256
+Black-winged Flycatcher-shrike: 213
+Amur Stonechat: 206
+Rufous-bellied Eagle: 204
+Siberian Thrush: 196
+Indian Pond Heron: 190
+Blue Rock Thrush: 181
+Taiga Flycatcher: 170
+Yellow-vented Flowerpecker: 167
+Ruby-cheeked Sunbird: 166
+Daurian Redstart: 160
+Black Drongo: 149
+Long-toed Stint: 143
+White-crowned Hornbill: 141
+Green Broadbill: 139
+Cinnamon-headed Green Pigeon: 135
+Slaty-legged Crake: 130
+Sand Martin: 128
+Red-throated Pipit: 126
+Common Kestrel: 115
+Orange-headed Thrush: 113
+Blue-and-white Flycatcher: 101
+Green Sandpiper: 96
+Pale-legged Leaf Warbler: 93
+Dusky Warbler: 89
+Grey-headed Lapwing: 85
+Gull-billed Tern: 74
+Pied Harrier: 72
+Broad-billed Sandpiper: 70
+Black-winged Stilt : 68
+Great Knot: 68
+Black Redstart: 67
+Black-headed Gull: 65
+Brahminy Starling: 65
+Great Slaty Woodpecker: 64
+Black-naped Oriole: 61
+Citrine Wagtail: 57
+Asian Emerald Cuckoo: 53
+Greater Sand Plover: 52
+Indian Paradise Flycatcher: 52
+Javan Plover: 44
+Pied Stilt: 44
+Lesser Green Leafbird: 43
+Common Tern: 40
+Oriental Scops Owl: 38
+Oriental Plover: 37
+Cotton Pygmy Goose: 36
+Buff-rumped Woodpecker: 32
+White-throated Needletail: 30
+Sanderling: 28
+Himalayan/Oriental Cuckoo: 24
+Black-naped Monarch: 24
+Chinese Blue Flycatcher: 23
+Streaked Bulbul: 21
+Himalayan Vulture: 19
+Amur Falcon: 19
+Mangrove Blue Flycatcher: 19
+Japanese Tit: 18
+Eurasian Skylark: 16
+Barn Swallow: 15
+Zappey's Flycatcher: 15
+Northern Boobook: 15
+Spotted Flycatcher: 15
+Red-billed Starling: 14
+Black-tailed Godwit: 14
+Tree Pipit: 13
+Booted Eagle: 13
+Fairy Pitta: 12
+White-cheeked Starling: 12
+Silver-backed Needletail: 11
+Short-toed Snake Eagle: 10
+Swinhoe's Snipe: 10
+Scarlet-breasted Flowerpecker: 10
+Thick-billed Flowerpecker: 10
+Pheasant-tailed Jacana: 10
+White Wagtail: 10
+Short-tailed Shearwater: 9
+Grey-streaked Flycatcher: 9
+Black-thighed Falconet: 8
+Narcissus Flycatcher: 8
+Large Woodshrike: 7
+Besra: 7
+Eurasian Curlew: 7
+Chinese Blackbird: 6
+Chestnut-cheeked Starling: 6
+Black-and-white Bulbul: 5
+Black-headed Ibis: 5
+Brown-backed Needletail: 5
+White-throated Rock Thrush: 5
+Black-headed Bunting: 5
+Red-footed Booby: 5
+Horsfield's Bronze Cuckoo: 4
+Rosy Starling: 4
+Common Swift: 3
+Parasitic Jaeger: 3
+Asian Dowitcher: 3
+Common Starling: 3
+Red-necked Phalarope: 3
+Grey-tailed Tattler: 3
+Eurasian Sparrowhawk: 3
+Ashy-headed Green Pigeon: 3
+Glossy Ibis: 3
+Siberian House Martin: 2
+Besra/Shikra: 2
+Rufous-backed Dwarf Kingfisher: 2
+Red Knot: 2
+Black-winged/Pied Stilt: 2
+Christmas Frigatebird: 2
+Cinereous Vulture: 2
+Lesser Frigatebird: 2
+Tufted Duck: 2
+Eurasian Hobby: 2
+Eastern Buzzard: 2
+Oriental Turtle Dove: 2
+Shikra: 2
+White-bellied Erpornis: 2
+Malayan Swamp Babbler: 2
+Common Buzzard: 2
+Eastern Imperial Eagle: 1
+Caspian Tern: 1
+Little Green Pigeon: 1
+White's Thrush: 1
+Brown-breasted Flycatcher: 1
+Long-tailed Jaeger: 1
+Bat Hawk: 1
+Black-backed Swamphen: 1
+Band-bellied Crake: 1
+Gadwall : 1
+Brown Booby: 1
+Northern Pintail: 1
+Little Stint: 1
+Eurasian Wigeon : 1
+Hair-crested Drongo: 1
+Scarlet Minivet: 1
+Malayan Black Magpie: 1
+Wedge-tailed Shearwater: 1
+Short-eared Owl: 1
+Japanese/Cinereous Tit : 1

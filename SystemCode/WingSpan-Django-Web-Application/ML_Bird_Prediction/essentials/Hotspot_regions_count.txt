@@ -1,0 +1,62 @@
+Total number of stations: 58
+
+Station counts:
+Station
+Marine Parade              1978
+Sembawang                  1978
+Choa Chu Kang (Central)    1978
+Choa Chu Kang (South)      1978
+Tanjong Katong             1978
+Somerset (Road)            1978
+Tuas South                 1978
+Serangoon                  1978
+Bukit Timah                1978
+Lim Chu Kang               1978
+Tengah                     1978
+Pasir Panjang              1978
+Nicoll Highway             1978
+East Coast Parkway         1978
+Seletar                    1978
+Kent Ridge                 1978
+Jurong (West)              1978
+Macritchie Reservoir       1978
+Upper Peirce Reservoir     1978
+Tuas                       1978
+Marina Barrage             1978
+Admiralty                  1978
+Ulu Pandan                 1978
+Jurong Island              1978
+Simei                      1978
+Changi                     1978
+Botanic Garden             1978
+Ang Mo Kio                 1978
+Lower Peirce Reservoir     1978
+Pasir Ris (Central)        1978
+Kranji Reservoir           1978
+Punggol                    1978
+Dhoby Ghaut                1978
+Pasir Ris (West)           1978
+Tai Seng                   1947
+Paya Lebar                 1945
+Newton                     1919
+Mandai                     1919
+Whampoa                    1919
+Clementi                   1919
+Toa Payoh                  1919
+Sentosa Island             1919
+Jurong Pier                1919
+Buona Vista                1919
+Queenstown                 1889
+Pulau Ubin                 1888
+Semakau Island             1883
+Bukit Panjang              1861
+Chai Chee                  1643
+Tuas West                  1522
+Khatib                     1188
+Choa Chu Kang (West)       1157
+Yishun                      942
+Upper Thomson               854
+Admiralty West              578
+Jurong (North)              212
+Buangkok                    212
+Boon Lay (West)              31

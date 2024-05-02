@@ -1,0 +1,2 @@
+*.joblib filter=lfs diff=lfs merge=lfs -text
+/home/ai-user/NUS_IS/project/WingSpan/ML_Bird_Prediction/Models/rf_bird_classifier.joblib filter=lfs diff=lfs merge=lfs -text

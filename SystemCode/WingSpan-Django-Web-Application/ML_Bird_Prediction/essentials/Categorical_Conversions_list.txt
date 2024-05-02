@@ -1,0 +1,658 @@
+Species Mapping:
+Amur Falcon: 0
+Amur Stonechat: 1
+Ashy Drongo: 2
+Ashy-headed Green Pigeon: 3
+Asian Dowitcher: 4
+Asian Emerald Cuckoo: 5
+Asian Openbill: 6
+Band-bellied Crake: 7
+Barn Swallow: 8
+Barred Eagle-Owl: 9
+Bat Hawk: 10
+Beach Stone-curlew: 11
+Besra: 12
+Besra/Shikra: 13
+Black Drongo: 14
+Black Hornbill : 15
+Black Redstart: 16
+Black-and-red Broadbill: 17
+Black-and-white Bulbul: 18
+Black-backed Swamphen: 19
+Black-headed Bunting: 20
+Black-headed Gull: 21
+Black-headed Ibis: 22
+Black-naped Monarch: 23
+Black-naped Oriole: 24
+Black-tailed Godwit: 25
+Black-thighed Falconet: 26
+Black-winged Flycatcher-shrike: 27
+Black-winged Stilt : 28
+Black-winged/Pied Stilt: 29
+Blue Rock Thrush: 30
+Blue-and-white Flycatcher: 31
+Booted Eagle: 32
+Booted Warbler: 33
+Brahminy Starling: 34
+Broad-billed Sandpiper: 35
+Brown Booby: 36
+Brown Wood Owl: 37
+Brown-backed Needletail: 38
+Brown-breasted Flycatcher: 39
+Brown-headed Gull: 40
+Buff-rumped Woodpecker: 41
+Bulwer's Petrel: 42
+Caspian Tern: 43
+Chestnut-cheeked Starling: 44
+Chinese Blackbird: 45
+Chinese Blue Flycatcher: 46
+Chinese Egret : 47
+Christmas Frigatebird: 48
+Cinereous Vulture: 49
+Cinnamon-headed Green Pigeon: 50
+Citrine Wagtail: 51
+Common Buzzard: 52
+Common Kestrel: 53
+Common Moorhen: 54
+Common Ringed Plower: 55
+Common Starling: 56
+Common Swift: 57
+Common Tern: 58
+Cotton Pygmy Goose: 59
+Crimson-winged Woodpecker: 60
+Daurian Redstart: 61
+Dusky Warbler: 62
+Eastern Buzzard: 63
+Eastern Imperial Eagle: 64
+Eurasian Curlew: 65
+Eurasian Hobby: 66
+Eurasian Skylark: 67
+Eurasian Sparrowhawk: 68
+Eurasian Wigeon : 69
+Fairy Pitta: 70
+Far Eastern Curlew: 71
+Gadwall : 72
+Garganey : 73
+Glossy Ibis: 74
+Great Knot: 75
+Great Slaty Woodpecker: 76
+Greater Sand Plover: 77
+Green Broadbill: 78
+Green Sandpiper: 79
+Grey-headed Lapwing: 80
+Grey-headed Swamphen: 81
+Grey-streaked Flycatcher: 82
+Grey-tailed Tattler: 83
+Gull-billed Tern: 84
+Hair-crested Drongo: 85
+Himalayan Cuckoo : 86
+Himalayan Vulture: 87
+Himalayan/Oriental Cuckoo: 88
+Horsfield's Bronze Cuckoo: 89
+Indian Paradise Flycatcher: 90
+Indian Pond Heron: 91
+Jacobin Cuckoo: 92
+Japanese Tit: 93
+Japanese/Cinereous Tit : 94
+Javan Plover: 95
+Javan Pond Heron: 96
+Large Woodshrike: 97
+Lesser Cuckooshrike: 98
+Lesser Frigatebird: 99
+Lesser Green Leafbird: 100
+Lesser Kestrel: 101
+Little Curlew: 102
+Little Grebe: 103
+Little Green Pigeon: 104
+Little Stint: 105
+Long-tailed Jaeger: 106
+Long-toed Stint: 107
+Malayan Black Magpie: 108
+Malayan Swamp Babbler: 109
+Malaysian Eared Nightjar: 110
+Mangrove Blue Flycatcher: 111
+Mangrove Whistler: 112
+Masked Booby: 113
+Masked Finfoot: 114
+Mountain Imperial Pigeon: 115
+Moustached Babbler: 116
+Narcissus Flycatcher: 117
+Nordmann's Greenshank: 118
+Northern Boobook: 119
+Northern Pintail: 120
+Northern Shoveler: 121
+Olive-backed Pipit: 122
+Orange-breasted Green Pigeon: 123
+Orange-headed Thrush: 124
+Oriental Darter: 125
+Oriental Plover: 126
+Oriental Scops Owl: 127
+Oriental Turtle Dove: 128
+Pale-legged Leaf Warbler: 129
+Pale-legged/Sakhalin Leaf Warbler : 130
+Parasitic Jaeger: 131
+Pectoral Sandpiper: 132
+Pheasant-tailed Jacana: 133
+Pied Harrier: 134
+Pied Kingfisher: 135
+Pied Stilt: 136
+Pomarine Jaeger: 137
+Red Knot: 138
+Red-billed Starling: 139
+Red-footed Booby: 140
+Red-necked Phalarope: 141
+Red-throated Pipit: 142
+Rosy Starling: 143
+Ruby-cheeked Sunbird: 144
+Ruff: 145
+Rufous-backed Dwarf Kingfisher: 146
+Rufous-bellied Eagle: 147
+Sakhalin Leaf Warbler: 148
+Sand Martin: 149
+Sanderling: 150
+Scarlet Minivet: 151
+Scarlet-breasted Flowerpecker: 152
+Sharp-tailed Sandpiper: 153
+Shikra: 154
+Short-eared Owl: 155
+Short-tailed Shearwater: 156
+Short-toed Snake Eagle: 157
+Siberian House Martin: 158
+Siberian Thrush: 159
+Silver-backed Needletail: 160
+Silver-rumped Spinetail: 161
+Slaty-legged Crake: 162
+Small Pratincole: 163
+Spoon-billed Sandpiper: 164
+Spotted Flycatcher: 165
+Spotted Redshank: 166
+Steppe Eagle: 167
+Streaked Bulbul: 168
+Swinhoe's Snipe: 169
+Taiga Flycatcher: 170
+Thick-billed Flowerpecker: 171
+Thick-billed Spiderhunter: 172
+Tree Pipit: 173
+Tufted Duck: 174
+Velvet-fronted Nuthatch: 175
+Verditer Flycatcher: 176
+Wedge-tailed Shearwater: 177
+Whiskered Treeswift: 178
+White Wagtail: 179
+White's Thrush: 180
+White-bellied Erpornis: 181
+White-bellied Woodpecker: 182
+White-cheeked Starling: 183
+White-crowned Hornbill: 184
+White-faced Plover: 185
+White-tailed Tropicbird: 186
+White-throated Needletail: 187
+White-throated Rock Thrush: 188
+Yellow-eared Spiderhunter: 189
+Yellow-vented Flowerpecker: 190
+Zappey's Flycatcher: 191
+
+Location Mapping:
+108 Sungei Tengah Road: 0
+59 Telok Blangah Heights: 1
+Admiralty Park: 2
+Admiralty Road West: 3
+Admiralty road west: 4
+Airline Road: 5
+Airport Blvd: 6
+Ang Mo Kio: 7
+Ascentia Sky: 8
+Balmoral Park: 9
+Bedok: 10
+Bedok Canal: 11
+Bedok North: 12
+Bef Tuas Ter: 13
+Berlayar Creek Boardwalk: 14
+Berlayer Creek: 15
+Berlayer Creek Boardwalk: 16
+Berlayer Creek boardwalk: 17
+Bidadari: 18
+Bishan Ang Mo Kio Park: 19
+Bishan Depot Canal: 20
+Bishan Park: 21
+Bishan-AMK Park: 22
+Bishan-Ang Mo Kio Park: 23
+Blk 23 Ghim Moh: 24
+Botanic Gardens: 25
+Bukit Batok: 26
+Bukit Batok Nature Park: 27
+Bukit Brown: 28
+Bukit Brown Cemetery: 29
+Bukit Gombak: 30
+Bukit Kallang: 31
+Bukit Timah: 32
+Bukit Timah Hill: 33
+Bukit Timah Nature Reserve: 34
+Bukit Timah Road: 35
+Bukit Timah Summit: 36
+Bukit Timah hill summit: 37
+CBD: 38
+CCNR: 39
+CCNR, Petai Trail area: 40
+CCNR--Jelutong Tower: 41
+Canal near Bishan Stadium: 42
+Canterbury Road: 43
+CapitaGreen: 44
+Cashew Heights: 45
+Central Boulevard: 46
+Central Business District: 47
+Central Catchment Area: 48
+Central Catchment Nature Reserve: 49
+Central Catchment Nature Reserve: Mandai Track 15: 50
+Changi: 51
+Changi Airport: 52
+Changi Bay: 53
+Changi Bay Park Connector: 54
+Changi Bay Point: 55
+Changi Beach Park: 56
+Changi Business Park: 57
+Changi Business Park canal: 58
+Changi Central: 59
+Changi Central Marsh: 60
+Changi Coast: 61
+Changi Cove: 62
+Changi Cove and Grasslands: 63
+Changi Ferry Terminal: 64
+Changi North: 65
+Changi Point: 66
+Changi Prison: 67
+Changi South: 68
+Changi Village: 69
+Chek Jawa: 70
+Chek Jawa Boardwalk: 71
+Chek Jawa Wetlands: 72
+Chek Jawa, Pulau Ubin: 73
+Chestnut Nature Park: 74
+Chinese Garden: 75
+Choa Chu Kang Cemeteries: 76
+Choa Chu Kang Christian Cemetery: 77
+Choa Chu Kang Track 10: 78
+Chua Chu Kang: 79
+Clementi: 80
+Clementi Woods Park: 81
+Condominium in Pasir Ris: 82
+Coney Island: 83
+Coney Island (Serangoon Island): 84
+Dairy Farm: 85
+Dairy Farm Carpark B: 86
+Dairy Farm Nature Park: 87
+Dairy farm Nature Park: 88
+Dempsey Hill: 89
+Dempsey Road: 90
+Dover Area: 91
+Dover Rd: 92
+Dover Road: 93
+East Coast Park: 94
+East Coast Park - west: 95
+East Coast of Singapore: 96
+East end of Singapore: 97
+EcoLink: 98
+Gam Eng Seng Primary School: 99
+Gardens by the Bay: 100
+Geylang River: 101
+Ghim Moh Road 14: 102
+Goldhill: 103
+Green Corridor: 104
+Gymkhana Avenue: 105
+Haig Court: 106
+Hampstead Park: 107
+Hampstead Wetlands Park (formerly Baker St. pond): 108
+Hamstead Wetlands Singapore: 109
+Harvest Link: 110
+Henderson Waves: 111
+Henderson waves: 112
+Hindhede Nature Park: 113
+Hindhede Park: 114
+Hindhede Quarry: 115
+Holland Plain: 116
+Holland Plains: 117
+Horsburgh Lighthouse: 118
+Hort Park: 119
+Hume Avenue: 120
+Island Club Road: 121
+Jalan Asas: 122
+Jalan Besar Road: 123
+Jalan Mashhor: 124
+Jalan Ulu Seletar: 125
+Jalan Ulu Sembawang: 126
+Japanese Garden: 127
+Jelutong Tower: 128
+Jln Ulu Sembawang: 129
+Johor Causeway: 130
+Johor Straits: 131
+Jurong: 132
+Jurong East: 133
+Jurong Eco Garden: 134
+Jurong Island: 135
+Jurong Island (restricted access): 136
+Jurong Lake Garden: 137
+Jurong Lake Gardens: 138
+Jurong Lake Gardens (inc. Chinese Garden and Japanese Garden): 139
+Jurong Prawn Ponds: 140
+Jurong River: 141
+Jurong West: 142
+Jurong West St 52: 143
+Jurong West Street 22: 144
+Jurong West Street 22, Singapore, SG (1.354, 103.705): 145
+Jurong lake garden: 146
+Jurong lake gardens: 147
+Kallang: 148
+Kang Ching Road: 149
+Kent Ridge Park: 150
+Kent Road: 151
+Khatib Bongsu: 152
+Kranji: 153
+Kranji Bund: 154
+Kranji Dam: 155
+Kranji Dam/Kranji Reservoir Park: 156
+Kranji Mangrove: 157
+Kranji Marsh: 158
+Kranji Marshes: 159
+Kranji Marshes Tower: 160
+Kranji Reservoir: 161
+Kranji Sanctuary Golf Course: 162
+Kusu Island: 163
+Labrador: 164
+Labrador Nature Reserve: 165
+Labrador Park: 166
+Labrador Villa Road: 167
+Laguna National Golf and Country Club: 168
+Lazarus Island: 169
+Lim Chu Kang Cemetery: 170
+Lim Chu Kang Lane 3: 171
+Lim Chu Kang Ln3: 172
+Lim Chu Kang Road: 173
+Lor Halus: 174
+Lorong Halus: 175
+Lorong Halus Entrance: 176
+Lorong Halus Turf fields: 177
+Lorong Halus Wetland: 178
+Lorong Halus Wetland (inc. Serangoon Reservoir and former 'Serangoon'): 179
+Lorong Halus Wetlands: 180
+Lorong Halus/Punggol: 181
+Lorong Temechut: 182
+Lower Kent Ridge: 183
+Lower Peirce Reservoir: 184
+Lower Peirce Reservoir Park: 185
+Lower Pierce Reservoir: 186
+Lower Seletar: 187
+Lower Seletar Reservoir Park: 188
+Loyang: 189
+MED: 190
+MacRitchie: 191
+MacRitchie Reservoir: 192
+MacRitchie Reservoir Park: 193
+Macritchie Reservoir: 194
+Mandai: 195
+Mandai Forest: 196
+Mandai Mudflats: 197
+Mandai Orchard Gardens: 198
+Mandai Track 15: 199
+Mapletree Business Park: 200
+Marina Barrage: 201
+Marina Bay: 202
+Marina Bay East: 203
+Marina Bay Floating Stage: 204
+Marina City Park: 205
+Marina East: 206
+Marina East (Gardens by the Bay: Bay East / Marina Barrage): 207
+Marina East Breakwaters: 208
+Marina East Drive: 209
+Marina East Drive / Marina Bay East: 210
+Marina East Park: 211
+Marina Grove: 212
+Marina South: 213
+Marina South Area: 214
+Marina South Drive: 215
+Marina South Pier: 216
+Marina east drive: 217
+Marsiling Park: 218
+Mimosa Walk: 219
+Monsoon Drain at Lim Chu Kang Lane 3: 220
+Montreal Dr: 221
+Mount Faber: 222
+Mount Faber Car park B: 223
+Mount Faber Carpark B: 224
+Mount Faber Park: 225
+Mount Pleasant Road: 226
+Mt Faber: 227
+Mt faber: 228
+Mt. Faber: 229
+NSRCC Kranji: 230
+NTU: 231
+NTU, fringe of western catchment: 232
+NUS: 233
+NUS campus: 234
+Nanyang Technological University: 235
+National Stadium: 236
+National University of Singapore: 237
+Nee Soon: 238
+Nee Soon Catchment: 239
+Nee Soon Catchment Forest: 240
+Nee Soon Forest: 241
+Nee Soon Swamp Forest: 242
+Nee Soon forest: 243
+Neo Tiew: 244
+Neo Tiew Harvest Lane: 245
+Neo Tiew Lane 2: 246
+Neo Tiew Lane 3: 247
+Neo Tiew Rd: 248
+Neo Tiew Road: 249
+New Tech Park, Serangoon: 250
+New reclamation land at P. Tekong: 251
+Northeastern Singapore: 252
+Old Bidadari cemetery: 253
+Old Police Academy: 254
+Old Upper Thomson Rd: 255
+Orchard Road: 256
+Oriole Crescent: 257
+Over Tan Tock Seng/Novena Area: 258
+P. Tekong: 259
+Pan Island Expressway: 260
+Pandan Reservoir: 261
+Pang Sua Connector: 262
+Pang Sua Park Connector: 263
+Pasir Panjang: 264
+Pasir Panjang Canal: 265
+Pasir Ris: 266
+Pasir Ris Farmway 1: 267
+Pasir Ris Farmway 3: 268
+Pasir Ris Grove: 269
+Pasir Ris Park: 270
+Pasir Ris Park PCN: 271
+Paya Lebar: 272
+Pelagic - Straits of Singapore: 273
+Peng Siang river: 274
+Peninsula Plaza: 275
+Penjuru Place: 276
+People's Park Centre: 277
+Piccadilly: 278
+Piccadily: 279
+Pinnacle at Duxton: 280
+Pinnacle@Duxton: 281
+Pinnacle@Duxton towards Mt Faber: 282
+Pinnacles@Duxton: 283
+Portchester Ave: 284
+Poyan: 285
+Poyan Reservoir: 286
+Poyan Reservoir (restricted access): 287
+Pulau Busing: 288
+Pulau Hantu: 289
+Pulau Punggol: 290
+Pulau Salu: 291
+Pulau Semakau: 292
+Pulau Senang: 293
+Pulau Sudong: 294
+Pulau Tekong: 295
+Pulau Tekong (restricted access): 296
+Pulau Tekong Besar: 297
+Pulau Ubin: 298
+Pulau Ubin Chek Jawa: 299
+Pulau Ubin: Chek Jawa: 300
+Pulau Ubin: Chek Jawa Wetlands: 301
+Pulau Unum: 302
+Punggol: 303
+Punggol Barat: 304
+Punggol End: 305
+Punggol Pond: 306
+Punggol Promenade Nature Walk: 307
+Punggol Seventeenth Avenue: 308
+Punggol Way: 309
+Race Course Road: 310
+Republic Polytechnic: 311
+Rifle Range Link: 312
+Rifle Range Road: 313
+Rifle Range link: 314
+River Safari: 315
+Rochor River: 316
+Rower's Bay Park: 317
+SBWR: 318
+SG - Batam Ferry: 319
+Satay By The Bay: 320
+Satay by the Bay: 321
+Sea between Changi and Ubin: 322
+Seletar: 323
+Seletar Aerospace Crescent: 324
+Seletar Aerospace Drive: 325
+Seletar Airport: 326
+Seletar Catchment: 327
+Seletar Dam: 328
+Seletar Dam (Yishun Dam): 329
+Seletar Estuary: 330
+Seletar Expressway: 331
+Seletar Reservoir 10' Cell: 332
+Sembawang: 333
+Sembawang Road: 334
+Sembawang Road: turf field: 335
+Sembawang Wagtail Roost: 336
+Senoko: 337
+Sentosa: 338
+Sentosa Cove: 339
+Sentosa Island: 340
+Serangoo: 341
+Serangoon: 342
+Serangoon & Pasir Ris: 343
+Serangoon Estuary: 344
+Serangoon Estuary/Lorong Halus: 345
+Serangoon Leachate Pond: 346
+Serangoon Prawn Ponds: 347
+Serangoon River: 348
+Serangoon Tidal Region: 349
+Sg Buloh Wetlands Reserve: 350
+Sime: 351
+Sime Forest: 352
+Sime Road: 353
+Sime Track: 354
+Sime forest: 355
+Simpang Grassland: 356
+Simpang Kiri Park Connector: 357
+Sims Avenue: 358
+Singapore: 359
+Singapore Botanic Garden: 360
+Singapore Botanic Gardens: 361
+Singapore Botanic Gardens, Learning Forest: 362
+Singapore Botanic Gardens--Gallop extension, incl COMO adv grove: 363
+Singapore Botanical Gardens: 364
+Singapore Polo Club: 365
+Singapore Quarry: 366
+Singapore Race Course: 367
+Singapore Strait: 368
+Singapore Straits: 369
+Singapore Straits (including SG/Indo/M'sian waters): 370
+Singapore Straits: Fourth hour of four in Port Limits: 371
+Singapore Water Catchment: 372
+Singapore Waters Pelagic: second hour: 373
+Singapore Waters Pelagic: third hour: 374
+Sister's Island: 375
+SkyParc@Dawson: 376
+SkyVille @ Dawson: 377
+Skyparc @ Dawson: 378
+Southern Ridges: 379
+Springleaf Nature Park: 380
+St John's Island: 381
+St. John's Island: 382
+Straits of Johor: 383
+Straits of Singapore: 384
+Strathmore Avenue: 385
+Sungai Buloh Wetland Reserve: 386
+Sungei Bedok: 387
+Sungei Buloh: 388
+Sungei Buloh Visitor Centre: 389
+Sungei Buloh Wetland: 390
+Sungei Buloh Wetland Reserve: 391
+Sungei Buloh Wetland Reserve - East inc. Kranji Nature Trail: 392
+Sungei Buloh Wetlands Reserve: 393
+Sungei Buloh wetland reserve: 394
+Sungei Pandan: 395
+Sungei Seletar: 396
+Sungei Seletar Dam: 397
+Sungei Serangoon: 398
+Sungei Tengah: 399
+Sungei Tengah Road: 400
+Sungei Ulu Pandan Park Connector: 401
+Sungei buloh wetland: 402
+Tampines Eco Green: 403
+Tampines Ecogreen: 404
+Tampines St 45: 405
+Tampines Street 91: 406
+Tanah Merah: 407
+Tanah Merah Coast Road: 408
+Tanah Merah Coast and Grasslands: 409
+Tanglin Halt: 410
+Tanglin Trust School: 411
+Tanjong Irau: 412
+Tanjong Katong: 413
+Tanjong Pagar: 414
+Tanjong Rhu: 415
+Telok Blangah: 416
+Telok Blangah Hill: 417
+Telok Blangah Hill Park: 418
+Temasek Polytechnic: 419
+The Grandstand: 420
+The Raintree: 421
+Thomson Nature Park: 422
+Toa Payoh: 423
+Tree Top Walk: 424
+Tuas: 425
+Tuas End: 426
+Tuas Grassland: 427
+Tuas Raffles Country Club: 428
+Tuas South: 429
+Tuas South (Tuas South Avenue 16 and surrounds): 430
+Tuas South Way: 431
+Tuas West: 432
+Tuas West Avenue: 433
+Turut Track: 434
+Tyersall Road Woodland: 435
+Ubin Living Lab: 436
+Ubin, West: 437
+Ulu Pandan Park Connector: 438
+Ulu Pandan Park Connector, opposite Pinegrove condo: 439
+Ulu Seletar: 440
+Unknown condominium: 441
+Upper Bukit Timah: 442
+Upper Peirce Reservoir: 443
+Upper Peirce Reservoir Park: 444
+Upper Seletar Reservoir: 445
+Upper Seletar Reservoir Park: 446
+Upper Seletar Reservoir Park (USRP) inc. Mandai Road Track 7 / Nee Soon Swamp Forest: 447
+Warren grassland: 448
+West Coast: 449
+West Coast Park: 450
+West Coast Park: west: 451
+Western Catchment: 452
+Windsor Nature Park: 453
+Windsor Nature Park including Venus Drive and Venus Loop: 454
+Woodlands: 455
+Woodlands Street 81: 456
+Yishun Dam: 457
+Yishun Pond: 458
+Yishun Street 21: 459
+Yishun Wagtail Roost: 460
+open grass area of Marina East Drive: 461
+pulau tekong: 462

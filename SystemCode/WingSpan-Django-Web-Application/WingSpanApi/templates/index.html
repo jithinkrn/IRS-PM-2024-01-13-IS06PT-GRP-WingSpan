@@ -1,0 +1,200 @@
+{% load static %}
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Wing Span - Your AI birdwatching Assistant</title>
+        <!-- Favicon -->
+        {% load static %}
+        <link rel="apple-touch-icon" href="{% static 'icons/apple-touch-icon.png' %}">
+        <link rel="icon" href="{% static 'icons/favicon-32x32.png' %}">
+        <link rel="icon" href="{% static 'icons/favicon-16x16.png' %}">
+        <link rel="manifest" href="{% static 'icons/site.webmanifest' %}">
+        <link rel="mask-icon" href="{% static 'icons/safari-pinned-tab.svg' %}" color="#5bbad5">
+        <link rel="shortcut icon" href="{% static 'icons/favicon.ico' %}">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="{% static 'icons/mstile-144x144.png' %}">
+        <meta name="theme-color" content="#ffffff">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="{% static 'bootstrap-5.3.3-dist/css/bootstrap.min.css' %}">
+        <link rel="stylesheet" href="{% static 'css/botui.css' %}">
+         <!-- plotty Js -->
+        <script src="https://cdn.plot.ly/plotly-2.30.0.min.js" charset="utf-8"></script>
+        
+    </head>
+    <body>
+        <div class="page-container" id="page-container">
+            
+            <div class="chat-container" id="chat-container">
+                <!-- Chat entries -->
+                <img src="{% static 'images/bot_avatar.webp' %}" class="avatar">
+                <div class="chat-entry bot">
+                    <div class="container">
+                        <h3>Welcome to WingSpan, your virtual gateway to the avian world! <span class="emoji">🐦</span></h3>
+                        <p>How may I assist you on your feathered journey today?</p>
+                        
+                        <p>Here’s how I can help:</p>
+                        <ul>
+                            <li><strong>Bird Information:</strong> Looking for detailed facts, habitat info, or conservation status about a specific bird? I'll provide you with all the information you need to become an avian expert.</li>
+                            <li><strong>Bird Identification by Description:</strong> Spotted an intriguing bird? Describe its features, behavior, or sounds to me, and I'll help you uncover its identity.</li>
+                            <li><strong>Bird Identification from Photos:</strong> Have a photo of a bird you can’t name? Share it with me, and let’s identify it together.</li>
+                            <li><strong>Bird Spotting Predictions:</strong> Are you wondering whether you will find the bird you are looking for? Let me predict the possibilities based on historical data.</li>
+                            <li><strong>Park Recommendation:</strong> Interested in the best parks for birdwatching? I can recommend the top parks based on bird population and activity, tailored to your birdwatching interests.</li>
+                            <li><strong>Bird Abundance Heatmap in Singapore:</strong> Explore the latest heatmap to see where birds are thriving in Singapore! Ideal for planning your next birdwatching adventure or simply learning more about bird hotspots.</li>
+                        </ul>
+                        <p>Just let me know what you need, and we’ll take flight from there..!</p>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="chat-input">
+                <form id="chat-form">
+                    <input type="text" class="form-control" id="chat-message" placeholder="Type a message..." required>
+                    <!-- Add a label with a paperclip icon for your file input -->
+                    <label for="chat-image" class="image-upload-label">
+                        <img src="{% static 'icons/Attach-image.png' %}" alt="Attach" class="attach-image-icon">
+                        <span id="file-name" class="file-name"></span>
+                    </label>
+                    <input type="file" class="form-control d-none" id="chat-image" accept="image/*">
+                    <button type="submit" class="btn btn-primary">Ask</button>
+            </div>
+            <!-- Bootstrap JS and dependencies -->
+            <script src="{% static 'js/jquery.min.js' %}"></script>
+            <script src="{% static 'bootstrap-5.3.3-dist/js/bootstrap.min.js' %}"></script>
+            <script>
+                document.getElementById('chat-form').addEventListener('submit', function(event) {
+                    event.preventDefault();
+                    var message = document.getElementById('chat-message').value;
+                    var image = document.getElementById('chat-image').files[0];
+                    
+                    var chatContainer = document.getElementById('chat-container');
+                    
+                    // Create FormData and append message and image if available
+                    var formData = new FormData();
+                    formData.append('query', message);
+                    if(image) {
+                        formData.append('image', image);
+                        
+                        // Add a preview of the image to the chat immediately
+                        var imageSrc = URL.createObjectURL(image);
+                        addUserImageToChat(imageSrc); // This function adds the image to the chat
+                        document.getElementById('file-name').textContent = '';
+                    }
+
+                    if(message.trim() || image) {
+                        if (message.trim()) {
+                            addUserMessageToChat(message);
+                        }
+                        addBotTypingMessage(); // Call this only once regardless of whether there's text, image, or both.
+                    }
+
+                    // Send the message to your chatbot backend and handle the response.
+                    sendToChatbot(formData).then(response => {
+                        removeBotTypingMessage();
+                        addBotMessageToChat(response);
+                        
+                    }).catch(error => {
+                            removeBotTypingMessage();  
+                            console.error('Error in sending message to chatbot:', error);
+                        });
+                });
+
+                function addUserMessageToChat(message) {
+                    var chatContainer = document.getElementById('chat-container');
+                    var userEntry = document.createElement('div');
+                    userEntry.className = 'chat-entry user';
+                    var messageText = document.createElement('div');
+                    messageText.textContent = message;
+                    userEntry.appendChild(messageText);
+                    chatContainer.appendChild(userEntry);
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                    document.getElementById('chat-message').value = '';
+                    document.getElementById('chat-image').value = ''; // Clear the file input
+                }
+
+                function addBotMessageToChat(htmlContent) {
+                    var chatContainer = document.getElementById('chat-container');
+                    var botEntry = document.createElement('div');
+                    botEntry.className = 'chat-entry bot';
+
+                    // Correctly set innerHTML to parse the Plotly graph HTML
+                    botEntry.innerHTML = htmlContent; // This should parse and render the HTML
+                    chatContainer.appendChild(botEntry);
+
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+
+                    // Additional step: Execute the script to render Plotly graph
+                    var scripts = botEntry.getElementsByTagName("script");
+                    for(var i = 0; i < scripts.length; i++) {
+                        eval(scripts[i].innerText);
+                    }
+                }
+                function addBotTypingMessage() {
+                    var chatContainer = document.getElementById('chat-container');
+                    var botEntry = document.createElement('div');
+                    botEntry.className = 'chat-entry bot';
+                    botEntry.id = 'bot-typing';  // This id will help in finding and removing the message later
+                    var botMessageText = document.createElement('div');
+                    botMessageText.textContent = '...';
+                    botEntry.appendChild(botMessageText);
+                    chatContainer.appendChild(botEntry);
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                }
+
+                function removeBotTypingMessage() {
+                    var typingMessage = document.getElementById('bot-typing');
+                    if(typingMessage) {
+                        typingMessage.remove();
+                    }
+                }
+
+                async function sendToChatbot(formData) {
+                    const response = await fetch('/handlerequest/', { 
+                        method: 'POST',
+                        // headers: {
+                        //     'Content-Type': 'application/json',
+                        // },
+                        body: formData 
+                    });
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const data = await response.json();
+                    return data.response; 
+                }
+
+                function addUserImageToChat(imageSrc) {
+                var chatContainer = document.getElementById('chat-container');
+                var userEntry = document.createElement('div');
+                userEntry.className = 'chat-entry user';
+
+                // Create an image element and set its size
+                var image = new Image(200, 200); 
+                image.src = imageSrc;
+                image.className = 'user-image'; 
+                image.alt = 'User uploaded image';
+
+                // Append the image to the chat entry
+                userEntry.appendChild(image);
+                chatContainer.appendChild(userEntry);
+
+                // Scroll to the latest message
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+            document.getElementById('chat-image').addEventListener('change', function(event) {
+                var fileNameLabel = document.getElementById('file-name');
+                var file = event.target.files[0];
+                if(file) {
+                    var trimmedFileName = file.name.length > 15 ? file.name.substring(0, 5) + '...' : file.name;
+                    fileNameLabel.textContent = trimmedFileName;
+                } else {
+                    fileNameLabel.textContent = ''; // Reset if no file is selected
+                }
+            });
+
+            </script>
+        </div>
+    </body>
+</html>
