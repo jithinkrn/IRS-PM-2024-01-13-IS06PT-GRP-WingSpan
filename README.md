@@ -27,3 +27,11 @@ Our solution is an AI chatbot called WingSpan, which offers comprehensive functi
 • Bird Spotting Predictions: Utilizing historical data, the application predicts the likelihood of spotting specific birds, aiding enthusiasts in planning their birdwatching activities. \
 • Park Recommendation: By analysing data on bird populations and activity, the system recommends parks for birdwatching. \
 • Bird Abundance Heatmap in Singapore: An interactive heatmap feature displays areas of high bird abundance within Singapore, serving as a strategic tool for birdwatching planning. \
+
+SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+Official Full Name	Student ID (MTech Applicable)	Work Items (Who Did What)	Email (Optional)
+Desmond Chua	A1234567A	xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz	A1234567A@nus.edu.sg
+Chang Ye Han	A1234567B	xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz	A1234567B@gmail.com
+Chee Jia Wei	A1234567C	xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz	A1234567C@outlook.com
+Ganesh Kumar	A1234567D	xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz	A1234567D@yahoo.com
+Jeanette Lim	A1234567E	xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz	A1234567E@qq.com
