@@ -31,7 +31,7 @@ Our solution is an AI chatbot called WingSpan, which offers comprehensive functi
 | Ashiwin Rajendran | A0291191E |Data collection and Preparation, Bird Sighting prediction (Random Forest Classifier), Bussiness Presentation Slide and video, Testing | e1330330@u.nus.edu |
 | Jithin Krishnan | A0249481W | System Design, Web Application and API, Adroid Application, Deployment, Data collection and Preparation, LLM integartion, User Intent Identification, Bird Information, Bird Identifcation (Image & Text), Park Recommendation, Testing, Project Tracking and coordination | e0941674@u.nus.edu |
 | Prem Varijakzhan |  A0291913B | Ideation, Data Collection, Data Processing, Weather Data Integration with forecast upto 15 days and historical data,Content Based Park Recommendation System Model and Optimization, Documentation, User Guide, Presentation, Testing | e1336246@u.nus.edu |
-| Shankar Sai Ganesh | A0168149U | Data collection and processing, Heatmap (Gradient Boosting Regressor), Testing, System Design Presentation and Video|  e0176582@nus.edu.sg |
+| Shankar Sai Ganesh | A0168149U | Data collection and processing, Heatmap (Gradient Boosting Regressor), Testing, System Design Presentation and Video|  e0176582@nus.edu |
 
 ## SECTION 4 : Business Video and System Design Video
 
