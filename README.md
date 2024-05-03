@@ -69,10 +69,9 @@ https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Pro
 - Please refer to the below link for the Project Report:
 https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/ProjectReport/Project%20Report%20-%20WingSpan.pdf
 
-
----
 ## SECTION 7 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
+- The folder contains Data Preparation Sriprs
 
 ---
