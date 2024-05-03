@@ -44,7 +44,7 @@ WingSpan incorporates several design techniques to ensure a seamless and enjoyab
 
 ## SECTION 4 : Business Video and System Design Video
 
-- The Links provided in the below text file:
+- Please find the video links in below text file or just click the thumbnails below to watch them:
   
 https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Video/Video%20Links.txt
 
