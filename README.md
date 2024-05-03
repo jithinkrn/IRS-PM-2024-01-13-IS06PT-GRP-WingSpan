@@ -41,11 +41,11 @@ https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Vid
 
 ### Business Video Presentation
 
-[![Business Video Presentation](https://i.ytimg.com/vi/UNGnHYY9DXI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUig_MA8=\u0026rs=AOn4CLA_hntDAjXYw7VAKHrG6o_-fulnoA","width":168,"height":94)](https://www.youtube.com/watch?v=UNGnHYY9DXI)
+[![Business Video Presentation](https://i.ytimg.com/vi/UNGnHYY9DXI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUig_MA8=\u0026rs=AOn4CLA_hntDAjXYw7VAKHrG6o_-fulnoA")](https://www.youtube.com/watch?v=UNGnHYY9DXI)
 
 ### System Design Video Presentation
 
-[![Technical Video Presentation](https://i.ytimg.com/vi/oEO39BNzU2s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLBQgYkKmuJHz9jnjsjxrad3BpPaGw","width":640,"height":360)](https://www.youtube.com/watch?v=oEO39BNzU2s)
+[![Technical Video Presentation](https://i.ytimg.com/vi/oEO39BNzU2s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLBQgYkKmuJHz9jnjsjxrad3BpPaGw")](https://www.youtube.com/watch?v=oEO39BNzU2s)
 
 ---
 
