@@ -47,6 +47,17 @@ https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Vid
 
 [![Technical Video Presentation](https://i.ytimg.com/vi/oEO39BNzU2s/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLBQgYkKmuJHz9jnjsjxrad3BpPaGw")](https://www.youtube.com/watch?v=oEO39BNzU2s)
 
+
+<a href="https://www.youtube.com/watch?v=UNGnHYY9DXI">
+    <img src="https://i.ytimg.com/vi/UNGnHYY9DXI/maxresdefault.jpg" alt="Business Video Presentation" width="640" height="360">
+</a>
+
+System Design Video Presentation
+
+<a href="https://www.youtube.com/watch?v=oEO39BNzU2s">
+    <img src="https://i.ytimg.com/vi/oEO39BNzU2s/hqdefault.jpg" alt="Technical Video Presentation" width="640" height="360">
+</a>
+
 ---
 
 ## SECTION 5 : USER GUIDE
