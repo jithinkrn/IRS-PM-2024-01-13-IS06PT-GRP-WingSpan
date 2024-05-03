@@ -46,11 +46,10 @@ As we continue to refine and expand WingSpan's capabilities, we are excited abou
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Ashiwin Rajendran | A0291191E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| Ashiwin Rajendran | A0291191E |Data collection and Preparation, Bird Sighting prediction (Random Forest Classifier), Bussiness Presentation Slide and video, Testing | A0291191E@nus.edu.sg |
+| Jithin Krishnan | A0249481W | Data collection and Preparation, System Design, Web Application, Adroid Application, Deployment, Bird Information, Bird Identifcation (Image & Text), Park Recommendation, Testing| A0249481W@nus.edu.sg |
+| Prem Varijakzhan | A0291913B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0291913B@nus.edu.sg |
+| Shankar Sai Ganesh | A0168149U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  A0168149U@nus.edu.sg |
 
 ## SECTION 4 : Business Video and System Design Video
 
