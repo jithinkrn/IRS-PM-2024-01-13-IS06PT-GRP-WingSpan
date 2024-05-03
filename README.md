@@ -4,4 +4,4 @@ Project : WingSpan - Enhancing Birdwatching with AI
 
 ------------
 ## SECTION 1: PROJECT TITLE
-###WingSpan - Enhancing Birdwatching with AI 
+### WingSpan - Enhancing Birdwatching with AI 
