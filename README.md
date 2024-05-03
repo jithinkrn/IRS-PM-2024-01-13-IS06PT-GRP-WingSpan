@@ -56,7 +56,13 @@ As we continue to refine and expand WingSpan's capabilities, we are excited abou
 ## SECTION 4 : Business Video and System Design Video
 
 - Please Refer to the Links provided in the below text file:
+  
 https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Video/Video%20Links.txt
+
+[![Business Video Presentation](https://www.youtube.com/watch?v=UNGnHYY9DXI)](https://www.youtube.com/watch?v=UNGnHYY9DXI)
+
+[![Technical Video Presentation](https://www.youtube.com/watch?v=oEO39BNzU2s)](https://www.youtube.com/watch?v=oEO39BNzU2s)
+
 ---
 
 ## SECTION 5 : USER GUIDE
