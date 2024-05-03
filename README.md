@@ -71,6 +71,6 @@ https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Pro
 ## SECTION 7 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
-- The folder contains Data Preparation Sscripts
+- This folder contains Data Preparation Scripts
 
 ---
