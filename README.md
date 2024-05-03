@@ -46,7 +46,7 @@ As we continue to refine and expand WingSpan's capabilities, we are excited abou
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Ashiwin Rajendran | A0291191E |Data collection and Preparation, Bird Sighting prediction (Random Forest Classifier), Bussiness Presentation Slide and video, Testing | E1330330@u.nus.edu |
+| Ashiwin Rajendran | A0291191E |Data collection and Preparation, Bird Sighting prediction (Random Forest Classifier), Bussiness Presentation Slide and video, Testing | e1330330@u.nus.edu |
 | Jithin Krishnan | A0249481W | Data collection and Preparation, System Design, Web Application, Adroid Application, Deployment, LLM integartion, Inten Indenfication, Bird Information, Bird Identifcation (Image & Text), Park Recommendation, Testing| e0941674@u.nus.edu |
 | Prem Varijakzhan | A0291913B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0291913B@nus.edu.sg |
 | Shankar Sai Ganesh | A0168149U | Data collection and processing, Heatmap (Gradient Boosting Regressor), Testing, System Design Presentation and Video|  E0176582@nus.edu.sg |
