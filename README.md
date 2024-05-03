@@ -55,7 +55,7 @@ As we continue to refine and expand WingSpan's capabilities, we are excited abou
 
 ## SECTION 4 : Business Video and System Design Video
 
-- Please Refer to the Links provided in the below text file:
+- The Links provided in the below text file:
   
 https://github.com/jithinkrn/IRS-PM-2024-01-13-IS06PT-GRP-WingSpan/blob/main/Video/Video%20Links.txt
 
